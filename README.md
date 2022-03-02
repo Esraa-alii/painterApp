@@ -1,1 +1,2 @@
-# CMP2241_F21_Team04
+this is a paint application using c++
+fram work : QT 
